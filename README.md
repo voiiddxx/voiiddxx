@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<a href="https://storyset.com/web">Web illustrations by Storyset</a>
+
 <h3 align="center">A Flutter Developer from India With Strong in DSA Concepts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voiiddxx&label=Profile%20views&color=0e75b6&style=flat" alt="voiiddxx" /> </p>
