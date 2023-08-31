@@ -2,10 +2,6 @@
 
 <h3 align="center">A Flutter Developer from India With Strong in DSA Concepts</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voiiddxx&label=Profile%20views&color=0e75b6&style=flat" alt="voiiddxx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voiiddxx" alt="voiiddxx" /></a> </p>
-
 - 🌱 I’m currently learning **Advance Flutter , Node Js**
 
 - 👨‍💻 All of my projects are available at [https://voiiddxx.github.io/nikhilx/](https://voiiddxx.github.io/nikhilx/)
