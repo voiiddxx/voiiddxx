@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 
-<h3 align="center">A Flutter Developer from India With Strong in DSA Concepts</h3>
+<h3 align="center">I code in react , next , flutter, for backend i code in node</h3>
 
 - 🌱 I’m currently learning **Advance Flutter , Node Js**
 
 - 👨‍💻 All of my projects are available at [https://voiiddxx.github.io/nikhilx/](https://voiiddxx.github.io/nikhilx/)
 
-- 💬 Ask me about **Flutter , Firebase , Nodejs , HTML CSS , UI Designing**
+- 💬 Ask me about **Flutter , react , next , Firebase , Nodejs , HTML CSS , UI Designing**
 
 - 📫 How to reach me **nikhildesign00@gmail.com**
 
