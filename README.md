@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Advance Flutter , Node Js**
 
-- 👨‍💻 All of my projects are available at [https://voiiddxx.github.io/nikhilx/](https://voiiddxx.github.io/nikhilx/)
+- 👨‍💻 All of my projects are available at [https://protfolio-voiiddxx.vercel.app/](https://protfolio-voiiddxx.vercel.app/)
 
 - 💬 Ask me about **Flutter , react , next , Firebase , Nodejs , HTML CSS , UI Designing**
 
